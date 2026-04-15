@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haripriya G</h1>
 <h3 align="center">🚀 Pre-Final Year CSE Student | AI & Web Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/Haripriya941">
-    <img src="https://img.shields.io/github/followers/Haripriya941?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/Haripriya941">
-    <img src="https://img.shields.io/github/stars/Haripriya941?style=social" />
-  </a>
-</p>
-
----
 
 ## 👩‍💻 About Me
 
